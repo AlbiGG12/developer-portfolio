@@ -38,10 +38,32 @@ section{
 .top-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .size{
     font-size: xx-large;
 }
 .increase{
     font-size: x-large;
+}
+.about{
+    font-weight: 700;
+    font-size: xx-large
+}
+.biggie{
+    font-size: x-large;
+}
+.dc-link{
+    text-decoration: none;
+    background-image: linear-gradient(blue, indigo);
+    padding: 5px 70px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+.about-theon{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
 }
