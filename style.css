@@ -51,7 +51,7 @@ section{
     font-size: xx-large
 }
 .biggie{
-    font-size: x-large;
+    font-size: larger;
 }
 .dc-link{
     text-decoration: none;
@@ -66,4 +66,27 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 
+}
+.box-shadow{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+   box-shadow: 20px 20px 20px gray;
+   margin-bottom: 100px;
+}
+.image-setting{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#blue{
+    border-left: 7px solid blue;
+    border-radius: 5px;
+}
+#tomato{
+    border-left: 7px solid tomato;
+    border-radius: 5px;
+}
+footer p{
+    text-align: center;
 }
